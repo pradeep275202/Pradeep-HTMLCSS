@@ -1,0 +1,47 @@
+body {
+          font-family: Arial, sans-serif;
+          background-color: #ffffff;
+        }
+        
+        .container {
+          padding: 20px;
+          background-color: #ffffff;
+        }
+        
+        input {
+          width: 100%;
+          padding: 10px;
+          margin: 5px 0 22px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          background-color: #ffffff;
+        }
+        
+        hr {
+          border: 1px solid #ccc;
+          margin-bottom: 25px;
+        }
+        
+        .registerbtn {
+          background-color: #04AA6D;
+          color: #ffffff;
+          padding: 10px 20px;
+          margin: 8px 0;
+          border: none;
+          cursor: pointer;
+          width: 100%;
+          opacity: 0.9;
+        }
+        
+        .registerbtn:hover {
+          opacity: 1;
+        }
+
+        body{
+          background-color: aquamarine;
+        }
+        .form{
+          background-color:red;
+        }
+
+       

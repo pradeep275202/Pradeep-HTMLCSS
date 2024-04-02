@@ -1,0 +1,58 @@
+.heading{
+          align-content: center;
+}
+
+body{
+          background-color: rgb(0, 119, 255);
+          font-size: 20px;
+}
+
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+
+.heading{
+          background-color:white ;
+          width: 500px;
+          padding: 25px;
+          margin: 50px auto 0;
+          border-top:5px solid blue;
+          box-shadow: 0 0 7px 10px rgb(0,0,0,0.5);
+          border-radius: 10px;
+}
+.heading h1{
+          font-size: 24px;
+          line-height: 24px;
+          padding: 30px;
+          text-align: center;
+
+}
+.input{
+          width: 90%;
+          position: relative;
+          margin: 30px;
+}
+.lock{
+          padding: 8px 11px;
+}
+.name{
+          width: 138px;
+          padding: 8px 0 8px 42px;
+}
+
+.input span {
+          margin-left: 30px;
+}
+
+.text_name{
+          width: 100%;
+          padding: 8px 0 8px 42px;
+
+}
+
+input i{
+          position: absolute;
+          font-size: 18px;
+}
